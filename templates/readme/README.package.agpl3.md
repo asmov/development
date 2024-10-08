@@ -1,15 +1,17 @@
-# asmov / development
+%{PROJECT.NAME}% 
+================================================================================
+[![Latest Version]][crates.io]
 
-## resources
-- [MAINTAINER.md (asmov)](./ASMOV.md)
-- [templates/](./templates/)
-- [README templates/](./templates/readme/)
+[Latest Version]: https://img.shields.io/crates/v/%{CRATE.PACKAGE.NAME}%.svg
+[crates.io]: https://crates.io/crates/%{CRATE.PACKAGE.NAME}%
+
+%{PROJECT.DESCRIPTION}%
 
 
 License (AGPL3)
 --------------------------------------------------------------------------------
-Asmov Development Repository  
-Copyright (C) 2024 Asmov LLC  
+%{PROJECT.NAME}%: %{PROJECT.DESCRIPTION}%   
+Copyright (C) %{COPYRIGHT.YEAR}% Asmov LLC  
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published

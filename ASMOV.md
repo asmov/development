@@ -23,7 +23,7 @@ Please use a digital copy of your signature to sign the document if possible.
 
 Once approved, we will sign the document as well and email you the finalized copy.  
 
-We will store the agreement document internally. Its contents will not be shared with third parties unless required: verification of ownership, legal matters, etc.
+We will store the agreement document internally. Its contents will not be shared with third parties unless we are required to do so (verification of ownership, legal matters, etc.).
 
 ## commits
 

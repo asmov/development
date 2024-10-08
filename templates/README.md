@@ -16,3 +16,4 @@ RegEx: `/%{[A-Z0-9_]+\.[A-Z0-9_]+}%/`
 - `%{PROJECT.NAME}%`
 - `%{PROJECT.DESCRIPTION}%`
 - `%{COPYRIGHT.YEAR}%`
+- `%{CRATE.PACKAGE.NAME}%`
