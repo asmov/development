@@ -1,7 +1,7 @@
 # asmov / development
 
 ## resources
-- [MAINTAINER.md (asmov)](./ASMOV.md)
+- [ASMOV.md](./ASMOV.md)
 - [templates/](./templates/)
 - [README templates/](./templates/readme/)
 
