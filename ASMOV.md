@@ -15,7 +15,7 @@
 ## contributions
 
 ## copyright assignment agreement
-Committers must first agree to our [Copyright Assignment Agreement](./agreements/Copyright_Assignment_Agreement_between_Individual_and_Asmov_LLC.fodt).  
+Committers must first agree to our [Copyright Assignment Agreement](https://github.com/asmov/development/blob/release/agreements/Copyright_Assignment_Agreement_between_Individual_and_Asmov_LLC.fodt).  
 
 Please [email](mailto:development.pub@asmov.software) the signed agreement to us from the same email address that you've provided in the document.  
 
